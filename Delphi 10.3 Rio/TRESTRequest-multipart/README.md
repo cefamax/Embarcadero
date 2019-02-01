@@ -1,6 +1,5 @@
 # TRESTRequest
-**Sending post files with content-type = multipart/formdata
-**
+**Sending post files with content-type = multipart/formdata**
 
 
 PROBLEM: Error on sending parameters with the "content-type=multipart/formdata".
