@@ -3,7 +3,7 @@
 **
 
 
-PROBLEM: The problem concerns sending parameters with the "content-type=multipart/formdata".
+PROBLEM: Error on sending parameters with the "content-type=multipart/formdata".
 
  1. If only string parameters are sent, the body is of the type:
 
