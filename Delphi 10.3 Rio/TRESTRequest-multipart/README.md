@@ -51,6 +51,7 @@ in this way all the bondary strings are the same and the server loads all the pa
 
           1. Close Rad Studio IDE; 
           2. Backup "Lib" folder in "<program files (x86)>\Embarcadero\Studio\20.0"
-          3. Overwrite "Lib" folder in "<program files (x86)>\Embarcadero\Studio\20.0" (use lib_10-3-3 for Rad Studio 10.3.3)
+          3. Overwrite "Lib" folder in "<program files (x86)>\Embarcadero\Studio\20.0" 
+              (use lib_10-3-3 folder for Rad Studio 10.3.3)
           4. Start Rad Studio IDE;
     
